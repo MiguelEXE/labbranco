@@ -2,6 +2,16 @@
   "name": "labbranco",
   "version": "1.0.1",
   "description": "Logging created files with color!",
+  "keywords": [
+    "chalk",
+    "color",
+    "console",
+    "fs",
+    "file",
+    "dir",
+    "folder",
+    "folders"
+  ],
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
