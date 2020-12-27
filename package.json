@@ -1,6 +1,6 @@
 {
   "name": "labbranco",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logging created files with color!",
   "keywords": [
     "chalk",
